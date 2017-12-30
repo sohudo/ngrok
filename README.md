@@ -48,3 +48,6 @@ ngrok.com ran a pay-what-you-want hosted service of 1.x from early 2013 until Ap
 
 ## Developing on ngrok
 [ngrok developer's guide](docs/DEVELOPMENT.md)
+
+## 一键部署 on ngrok
+https://github.com/clangcn/ngrok-one-key-install
